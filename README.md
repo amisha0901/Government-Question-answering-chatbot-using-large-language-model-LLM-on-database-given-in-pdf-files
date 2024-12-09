@@ -22,16 +22,22 @@ Features:-
 Technologies Used:-
 
 1.PyPDF2: For extracting text data from PDF files.
+
 2.LangChain: For processing natural language queries and building the question-answering logic.
+
 3.OpenAI: Used for leveraging large language models (LLMs) to understand and generate answers.
+
 4.FAISS: For efficient document storage, indexing, and semantic search.
+
 5.Flask: For building the web interface and connecting the backend to the user-facing application.
 6.Python: Main programming language used for backend development and integration.
 
 How to Run:-
 
 1.Install the required dependencies: pip install -r requirements.txt.
+
 2.Run the Flask app: python app.py.
+
 3.Upload the PDF containing government schemes, input a question, and interact with the chatbot for real-time answers.
 
 Future Improvements:-
